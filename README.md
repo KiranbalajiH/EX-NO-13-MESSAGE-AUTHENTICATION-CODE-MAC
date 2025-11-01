@@ -73,10 +73,5 @@ int main()
 ## Output:
 <img width="440" height="272" alt="image" src="https://github.com/user-attachments/assets/a6f0ef5b-4a64-4443-95ad-cd5df5630ae9" />
 
-## RESULT:
-The Message Authentication Code (MAC) was implemented successfully, allowing the verification of message integrity and authenticity using a shared secret key.
-
-
-
 ## Result:
 The program is executed successfully.
